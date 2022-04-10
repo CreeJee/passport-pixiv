@@ -33,8 +33,10 @@
     "passport-oauth2": "1.x.x"
   },
   "devDependencies": {
-    "chai": "1.x.x",
-    "mocha": "1.x.x"
+    "@types/node": ">= 17.0.23",
+    "@types/passport-oauth2": "^1.4.11",
+    "chai": "4.x.x",
+    "mocha": "9.x.x"
   },
   "engines": {
     "node": ">= 0.8.0"
